@@ -1,0 +1,27 @@
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@1,700&display=swap');
+
+
+article{
+    display: inline-block;
+}
+h2{
+    color: #B36A5E;
+    text-align: center;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 40px;
+
+}
+
+.dog-pic{
+    width: 300px;
+    border: solid 8px #B36A5E;
+    border-radius: 100%;
+    margin-bottom: 10px;
+}
+
+.badge{
+    padding: 32px;
+    background-color: #EED7C5;
+    border-radius: 2%;
+}
